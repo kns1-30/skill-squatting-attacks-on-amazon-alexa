@@ -1,0 +1,1300 @@
+{
+    "totalCount": 76,
+    "totalFailed": 21,
+    "testCases": [
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "loyal",
+                "filePathInUpload": "cvc/we2B42.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B42.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8c9ed7f11c0e49e2c656dedf5da64fbf8192f5cd7e30799f6e0dd8408150d3be",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "oil"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "coal",
+                "filePathInUpload": "cvc/we2B9.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B9.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=07c3ddb3ee5a6b286daa52c8238604fc5dcda22ea72500928c93ba229487f53d",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "cole"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "caught",
+                "filePathInUpload": "cvc/we2B8.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B8.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5e8d0c966128917ac12cd046b823b2d46e86b1155201571a8a1990302c842abe",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "caught"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "wet",
+                "filePathInUpload": "cvc/we2B73.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B73.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6d7a68b8bcbb78de07db5709ff28cc964f683489733a67712099e96ea777885f",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "what"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "wall",
+                "filePathInUpload": "cvc/we2B72.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B72.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=660ecf5ffe4ebd7155614c2966d6605991abeac2e16fb279d8bec567e8155c46",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "wall"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "wool",
+                "filePathInUpload": "cvc/we2B74.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B74.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d979acf786fbdc953a335f67db2b89b49d4e30c8b17972e8c699d83fda9e0e22",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "wool"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "wrong",
+                "filePathInUpload": "cvc/we2B75.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B75.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=de2457be03c5f6d803cd65a28f3bc27d4e02c3161eee99c1773a02924e7ae757",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "wrong"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "lull",
+                "filePathInUpload": "cvc/we2B44.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B44.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10799&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1e22ec2eb56330c1735bcd1a3669fe3f82d0fa16e7dafe54b5ad28fccdde5e19",
+                    "expiryTime": "2022-11-22T04:38:28.411Z"
+                }
+            },
+            "output": {
+                "transcription": "low"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "luck",
+                "filePathInUpload": "cvc/we2B43.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B43.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=57133a4b478bdf213c61476c4fedb7fd387690ee1656b0653552c1e8b172d72c",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "luck"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "keep",
+                "filePathInUpload": "cvc/we2B38.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B38.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e87ac3a31dfb9231898e7eb672b9eaa1e63339d49a4e1c80fff53743537781e6",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "keep"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "hill",
+                "filePathInUpload": "cvc/we2B36.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B36.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1a22a9d8403bfa45b86e711669a686aefed1763823861c61103ab48eeb636be7",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "hill"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "home",
+                "filePathInUpload": "cvc/we2B37.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B37.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d97e4bd02e68c1a71d77b78cbd110a46bc09f53cef8041029b7b17aaa2e99bdf",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "home"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "lit",
+                "filePathInUpload": "cvc/we2B39.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B39.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=53892eab9f618109e7287c387dfec28f5894348cb566e73f0a3752d2a839cff7",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "lit"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "loud",
+                "filePathInUpload": "cvc/we2B40.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B40.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0001d00e93caba16c35cca096b79c32d83952c1b817afaed53a98f129fe7d1af",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "loud"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "love",
+                "filePathInUpload": "cvc/we2B41.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B41.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0fc0ddb13ddab36af8e5a3205e12bc906375062bea058619bae90cd100246a84",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "love"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "bite",
+                "filePathInUpload": "cvc/we2B1.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B1.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1b47da5fa777837d15eb8bcca1a0b0e2f7b957bb209036ba3a38e09f7abcefc9",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "bite"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "cough",
+                "filePathInUpload": "cvc/we2B15.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B15.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=db98490e97231c565ff2ee68ad4bb9d358ea8d2af041d0965bb755e7dba14ddd",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "cough"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "cot",
+                "filePathInUpload": "cvc/we2B14.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B14.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=122ec0891db4eeed3e2d759bfdd6eba7380a260dcffeeb068989eb3c5b927b50",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "cot"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "con",
+                "filePathInUpload": "cvc/we2B12.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B12.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4aebc2e2d7d5a64a95fd9ba0ce34f8f3abb9afb0959418603076cd4e0f7c5ad7",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "call"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "cool",
+                "filePathInUpload": "cvc/we2B13.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B13.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=31e7b9a2a77fe258bbc4b3ebf676d75c74ec6b979d12076dd9dd1cd0769fe5d2",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "cool"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "head",
+                "filePathInUpload": "cvc/we2B34.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B34.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f5bdabf50ef3d5cfe9bfe053170b8e285d5e47599fd1579383bf20070fbbc330",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "head"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "heal",
+                "filePathInUpload": "cvc/we2B35.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B35.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7a5d23b3c4e0a439e4a46a357404b1eefcd2698b5d985987155ec578fa047c85",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "heal"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "fool",
+                "filePathInUpload": "cvc/we2B28.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B28.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=28ba32da6de2e528a5c2b3627abb73a0d04c9e06314da19bc85e26334c8ae205",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "cool"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "foul",
+                "filePathInUpload": "cvc/we2B29.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B29.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8be2a428788e57cf7e9c64458abaef0d9c4c1bb615b5f2cb890048d12838f407",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "foul"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "fire",
+                "filePathInUpload": "cvc/we2B27.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B27.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d2f8cb61650d8aa82218d07679c4aaa478146579c7f5c23c6fc67587191992d5",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "fire"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "boil",
+                "filePathInUpload": "cvc/we2B3.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B3.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=11ac39fa3311aa0c6f41f3650c998b8a50616499ca33929dee1dba1efbc8d434",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "oil"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "guide",
+                "filePathInUpload": "cvc/we2B33.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B33.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a44fadb592105ff594870197a40e3ec0d64e5cd3a9d44c5d6a95fb2f70285cf9",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "guide"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "good",
+                "filePathInUpload": "cvc/we2B32.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B32.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=859f5ae3987015bed9d8c9e2b5b11fa31481b0cbb0d8d319beafc64a05a43ef5",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "good"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "full",
+                "filePathInUpload": "cvc/we2B30.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B30.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=20951b024a3c6409408f2bb0af5287ce03f08d12258758e2fba74e0a93d76e95",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "full"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "gap",
+                "filePathInUpload": "cvc/we2B31.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B31.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3599f81d82f6df6020d998a282b5852e954377554be5abfbeafafec59c4d505d",
+                    "expiryTime": "2022-11-22T04:38:28.412Z"
+                }
+            },
+            "output": {
+                "transcription": "gap"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "doll",
+                "filePathInUpload": "cvc/we2B20.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B20.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8ee4af1280f0a527c8f22dff1156b45b39d40347596eff20e25619139724bdaf",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "doll"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "dime",
+                "filePathInUpload": "cvc/we2B18.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B18.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=116c85de48b003338052e6bf8969ec278f168c099d55264ea2133cd3cf2c8077",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "time"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "boat",
+                "filePathInUpload": "cvc/we2B2.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B2.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ada2257f203622ec74ba2a4435012dcf80eaf96d783a40005977271272150379",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "boat"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "dock",
+                "filePathInUpload": "cvc/we2B19.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B19.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f7797121007db0f191867fa5a5d93dbf12a923312ea9e433c56f8c0029a2fc44",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "dock"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "fell",
+                "filePathInUpload": "cvc/we2B26.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B26.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f619c14e9d233673daf176cb015f30d1188807fbbc05dee73dc560eeb33f5f3c",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "cell"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "feed",
+                "filePathInUpload": "cvc/we2B25.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B25.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0e079735d88ffe7544cce4321ebe315f730bde3647fa91b96b15d195bcd1d7a9",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "feed"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "fail",
+                "filePathInUpload": "cvc/we2B24.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B24.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9bb38d14d6349042cf9a92b14fea08f0815ce601e120b517ca595203866ffd75",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "phil"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "fade",
+                "filePathInUpload": "cvc/we2B23.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B23.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=47be7d41cf399f04c7a6dd78f9fb63fe80117541530a5251a9a09af8176e2040",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "fade"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "doubt",
+                "filePathInUpload": "cvc/we2B21.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B21.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4e643311e0e5746b1a1166fff9674f718ef44d9fb851c08692ba4524492a3972",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "doubt"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "dull",
+                "filePathInUpload": "cvc/we2B22.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B22.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=010f0a0ee4fa7ca97eb2fdc97b891b868d82d7f29c74492ed02dd058097ca80c",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": null,
+            "error": {
+                "code": "EMPTY_TRANSCRIPTION",
+                "message": "The transcription is empty."
+            }
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "meal",
+                "filePathInUpload": "cvc/we2B48.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B48.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=926897e904d523d1b3fefc58e09aa02c26ef5a01dfacf1a9426c892be00b8cb0",
+                    "expiryTime": "2022-11-22T04:38:28.413Z"
+                }
+            },
+            "output": {
+                "transcription": "meal"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "lung",
+                "filePathInUpload": "cvc/we2B45.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B45.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85a2f4809758a43d749cce20c8af8ea345724de04ce98d09eac95d53a6f4699f",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "long"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "main",
+                "filePathInUpload": "cvc/we2B46.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B46.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00484f0fa647c70a22bca2396ab398d32d068d1323ae92c8c0fefb7297c55478",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "maine"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "math",
+                "filePathInUpload": "cvc/we2B47.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B47.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9dde05194c4dea1dbd234bb8d26041861cf89219c93d6df976c5135a70655d7c",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "math"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "pal",
+                "filePathInUpload": "cvc/we2B52.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B52.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4e22a5eb672872f505de73f2e36e0fd2ccc8bc5b461d2c1384eb1d8cee010cc7",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "pal"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "pen",
+                "filePathInUpload": "cvc/we2B53.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B53.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9598314fde9e4fd8f0c356c76263851d050296afaefe8bde7eed23a584eb4b42",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "10"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "mile",
+                "filePathInUpload": "cvc/we2B49.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B49.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ce98126a1fe1e3b95b78c683a88520de349d4291ec6943482f9ba87be0fb3001",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "mile"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "mob",
+                "filePathInUpload": "cvc/we2B51.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B51.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ff314182c92a56dc550887a5ba92c87f08f92870600fb14c286e010590d8b210",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "mob"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "mill",
+                "filePathInUpload": "cvc/we2B50.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B50.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=37cf4fcc9006e994ed35840f90b2f31dbafed59ecc56a55cf525a2708c86ce53",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "mill"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "cab",
+                "filePathInUpload": "cvc/we2B5.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B5.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7564b752231c3842f374ddcc2148a50af7e8ba9d5694a11b0ea983a3179afb06",
+                    "expiryTime": "2022-11-22T04:38:28.414Z"
+                }
+            },
+            "output": {
+                "transcription": "cab"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "sour",
+                "filePathInUpload": "cvc/we2B62.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B62.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c9680a59ba59242616b114f51e57fd8eb534d635a7e8a730e58ea616b8a0c6b9",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "sour"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "sell",
+                "filePathInUpload": "cvc/we2B61.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B61.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4d36ac4407492a905738c623ba435376a731b7bc81ed2d454477395502d9f956",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "cell"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "rip",
+                "filePathInUpload": "cvc/we2B59.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B59.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c6bbb7da5a480ead29c46e8c41ab29df0df5cd8fceed846e0797ca328e27309c",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "rip"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "sail",
+                "filePathInUpload": "cvc/we2B60.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B60.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e3d5ec8a3c719855a522a0b51f2208ca929790cbff8c4f87248d6f5c69e6e914",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "cell"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "calm",
+                "filePathInUpload": "cvc/we2B6.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B6.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0b3980dab92371986b6472532e72b66059b36cb4ee7a82da0935b9165502467b",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "call"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "rice",
+                "filePathInUpload": "cvc/we2B58.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B58.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7a0a40e7c8f6bd6fa0829c4435a7c3cf92c55f1404da34c8807439b6e6414eaf",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "rice"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "poke",
+                "filePathInUpload": "cvc/we2B55.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B55.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=608cce039b247283ad4d60b0d5d40f32c0b2e0faa4e6f1f163098dbb9e5ed413",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "poke"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "pool",
+                "filePathInUpload": "cvc/we2B56.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B56.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b2d53d50a17c100c9b0efad4bf421f62ffffc24868d234b9cc83b1ef8dee2e0e",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "pool"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "pull",
+                "filePathInUpload": "cvc/we2B57.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B57.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=416952e30e4f12481e50d6bc3cd47fb7c697b4a5145575ec7c6d47fdd11a73e6",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "pole"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "pin",
+                "filePathInUpload": "cvc/we2B54.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B54.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cc32ead2d21bccb94af66f8c0d25db712cf959fb899d5d9e4eb3fa4c9abc1bc0",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "pin"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "towel",
+                "filePathInUpload": "cvc/we2B66.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B66.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b6fdeaef5c580bbdd12e714ac08ef918913dc212822965b840e6c6199e63f567",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": null,
+            "error": {
+                "code": "EMPTY_TRANSCRIPTION",
+                "message": "The transcription is empty."
+            }
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "tool",
+                "filePathInUpload": "cvc/we2B65.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B65.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10799&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0a200fc2f114b2247f2e3bc89c495975848ca309f8959c68b73502a81f05a625",
+                    "expiryTime": "2022-11-22T04:38:28.415Z"
+                }
+            },
+            "output": {
+                "transcription": "tool"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "south",
+                "filePathInUpload": "cvc/we2B63.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B63.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8ecc1030632ab03cb1cb6c1aa0485881a6bd5b9484773fb314cb9131e94f4493",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "south"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "tape",
+                "filePathInUpload": "cvc/we2B64.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B64.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c48b15d5ad77e5710a57b21add11dfa4c00f276d1a645b3437339437ae0da227",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "tape"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "bull",
+                "filePathInUpload": "cvc/we2B4.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B4.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=11d92c6dc8c03bfa323e5621ca8f7d075d964e7a346fdf30cf369e08431d5557",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "bull"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "dig",
+                "filePathInUpload": "cvc/we2B17.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B17.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=03fb97fe23d04448e51fe344d422f12fb5719ea50f6ec0507170c0e180873133",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "dig"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "death",
+                "filePathInUpload": "cvc/we2B16.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B16.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9a1913f46ed1fb6a6ac30118610afc0bce0c3e20dbc5d032b70d1c3da3cca08c",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "death"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "bean",
+                "filePathInUpload": "cvc/we2B0.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B0.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a2a96816da80740c1be491eaa57de2bbf03e89403353cb998ff8596670b173c9",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "bean"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "code",
+                "filePathInUpload": "cvc/we2B10.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B10.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=50aff6ed6db9b1d91d0cf44be9f070611225764759c1198d25435fd622a72731",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "code"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "coin",
+                "filePathInUpload": "cvc/we2B11.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B11.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a18f896f0fa840bf7b0075e71d6bf5468a8f225d597f9bf3a4550ae37edd56a8",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "coin"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "void",
+                "filePathInUpload": "cvc/we2B70.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B70.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e59accd238e5295a3b6cafce9618352d23fe51116c6b21ea1f53496816e824bb",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "void"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "walk",
+                "filePathInUpload": "cvc/we2B71.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B71.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=591b659e400c160d1ce4fd3d94d181703c0cc9ad3edf4da147370ed3cf14c287",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "walk"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "town",
+                "filePathInUpload": "cvc/we2B67.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B67.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2ff582b658433f59168f94f7d7746597dd7f89334122cd31fc79293c9e60b429",
+                    "expiryTime": "2022-11-22T04:38:28.416Z"
+                }
+            },
+            "output": {
+                "transcription": "lbs"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "tube",
+                "filePathInUpload": "cvc/we2B68.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B68.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=890ad2c9e5396a5ee25fb0379f3f1ba7069ae445d22338b7c8b95f04236a2dc5",
+                    "expiryTime": "2022-11-22T04:38:28.417Z"
+                }
+            },
+            "output": {
+                "transcription": "tube"
+            },
+            "error": null
+        },
+        {
+            "status": "FAILED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "can",
+                "filePathInUpload": "cvc/we2B7.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B7.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dfe7b51633f49bbd0b11470f487e828774b24cba16d4bef4fe58d09198943005",
+                    "expiryTime": "2022-11-22T04:38:28.417Z"
+                }
+            },
+            "output": {
+                "transcription": "cam"
+            },
+            "error": null
+        },
+        {
+            "status": "PASSED",
+            "annotation": {
+                "evaluationWeight": 1,
+                "expectedTranscription": "voice",
+                "filePathInUpload": "cvc/we2B69.aiff",
+                "uploadId": "amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79",
+                "audioAsset": {
+                    "downloadUrl": "https://audio-transcoded-prod.s3.amazonaws.com/M1LJ26QR5J8A54/amzn1.ask-catalog.cat.e211b1e9-e3c0-4880-91ee-80908f15e92e/amzn1.ask-catalog.upl.50eb6387-2b66-4875-b257-9ff9204c8c79/MP3/cvc/we2B69.aiff.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221122T013828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAYWH6WUJBT56WPZMC%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2cacb3ea77c5002c2fe3f2cf349ca5f2e75e6867b5b0fe75b7c22f16e559ba88",
+                    "expiryTime": "2022-11-22T04:38:28.417Z"
+                }
+            },
+            "output": {
+                "transcription": "voice"
+            },
+            "error": null
+        }
+    ]
+}
